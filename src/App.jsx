@@ -15,7 +15,7 @@ const App = () => {
         <FlexContent endpoint={sneaker} />
         <Stories story={story} />
       </main>
-      <Footer footerAPI={footerAPI} />
+      {/* <Footer footerAPI={footerAPI} /> */}
    </>
   )
 }
