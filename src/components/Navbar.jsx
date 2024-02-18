@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { selectTotalQTY, setOpenCart } from '../app/CartSlice.js';
 
 import { HeartIcon, MagnifyingGlassIcon, ShoppingBagIcon } from '@heroicons/react/24/outline'
-import logo from '../assets/logo.png';
+import logo from '../assets/pngtree-sneakers-png-image_3989154-Photoroom.png-Photoroom.png';
 
 const Navbar = () => {
     const [navState, setNavState] = useState(false);
